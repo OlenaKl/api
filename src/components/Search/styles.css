@@ -1,0 +1,16 @@
+button.ant-btn-primary{
+    height: 50px;
+    margin-left: 30px;
+}
+
+.ant-select-dropdown-menu{
+    background-color: #333;
+}
+
+ul .ant-select-dropdown-menu-item{
+    color: #fff; 
+}
+
+.ant-select-dropdown-menu-item:hover{
+    color: #333;
+}

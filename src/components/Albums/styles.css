@@ -1,0 +1,28 @@
+p{
+    font-size: 16px;
+}
+
+.albumCover{
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+.album{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+}
+.album p{
+    order: 2;
+}
+.album:hover{
+    color: #1890ff;
+}
+.album-list{
+    padding: 30px 0;
+}
+.album-list .ant-row{
+    display: flex;
+    justify-content: space-around;
+}

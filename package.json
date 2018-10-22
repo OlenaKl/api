@@ -1,0 +1,51 @@
+{
+  "name": "tidal",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "cors": "^2.8.4",
+    "cors-anywhere": "^0.4.1",
+    "express": "^4.16.4",
+    "express-http-proxy": "^1.4.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "2.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "antd": "^3.10.1",
+    "less": "^3.8.1",
+    "autoprefixer": "8.0.0",
+    "axios": "^0.18.0",
+    "css-loader": "0.28.10",
+    "eslint": "5.6.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-flowtype": "^2.46.2",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-react": "^7.7.0",
+    "less": "^3.8.1",
+    "lodash": "^4.17.10",
+    "mobx": "^4.2.0",
+    "mobx-persist": "^0.4.1",
+    "mobx-react": "^5.0.0",
+    "mobx-react-form": "^1.34.0",
+    "postcss-loader": "2.1.1",
+    "prop-types": "^15.6.1",
+    "source-map": "^0.7.3"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
